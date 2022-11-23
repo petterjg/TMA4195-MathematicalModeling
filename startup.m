@@ -1,4 +1,3 @@
-addpath(genpath('Models/MainPart'))
-addpath(genpath('Models/ClearancePart'))
-addpath(genpath('Examples'))
-addpath(genpath('Project'))
+addpath(genpath('MainPart'))
+addpath(genpath('ClearancePart'))
+addpath(genpath('Models'))
